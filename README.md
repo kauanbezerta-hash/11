@@ -1,4 +1,4 @@
-[index-gigamais-identico (4).html](https://github.com/user-attachments/files/34023539/index-gigamais-identico.4.html)
+
 <!doctype html>
 <html lang="pt-BR">
 <head>
