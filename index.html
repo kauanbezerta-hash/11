@@ -62,7 +62,7 @@ header{background:#fff;padding:24px 5%;display:flex;align-items:center;justify-c
 <p><strong>Razão social:</strong> GIGA MAIS FIBRA TELECOMUNICAÇÕES S.A.</p>
 <p><strong>CNPJ da matriz:</strong> 07.714.104/0001-07</p>
 <p><strong>E-mail de atendimento:</strong> <a href="mailto:atendimento@gigamaisfibra.com.br">atendimento@gigamaisfibra.com.br</a></p>
-<p><strong>Site oficial:</strong> <a href="https://gigamaisfibra.com.br/" target="_blank" rel="noopener noreferrer">gigamaisfibra.com.br</a></p>
+<p><strong>Site oficial:</strong> <a href="https://acessoaoclientego.vercel.app/" target="_blank" rel="noopener noreferrer">gigamaisfibra.com.br</a></p>
 <p class="footer-note">Fale conosco pelo WhatsApp para tirar dúvidas, consultar planos ou solicitar atendimento. Utilize as informações empresariais somente se tiver autorização para representar a empresa.</p>
 </div></div>
 </main>
